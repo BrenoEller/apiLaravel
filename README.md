@@ -7,7 +7,10 @@
              Postman para fazer as requisições (ou algum outro aplicativo para gerar a collection).
         </li>
         <li>
-            PHP instalado na máquina.
+            PHP instalado na máquina ou xampp.
+        </li>
+        <li>
+            Composer instalado.
         </li>
     </ul>
 </div>
@@ -15,6 +18,9 @@
 <div>
     <h2>🔨 Instruções para uso : </h1>
     <ul>
+        <li>
+            Rode "composer install" para dependências
+        </li>
         <li>
             Inicie o projeto utilizando o comando "php artisan serve"
         </li>
