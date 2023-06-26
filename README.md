@@ -7,10 +7,7 @@
              Postman para fazer as requisições (ou algum outro aplicativo para gerar a collection).
         </li>
         <li>
-            Composer para fazer a instalação do Laravel.
-        </li>
-        <li>
-            PHP instalado na máquina para usar o comando "php artisan serve".
+            PHP instalado na máquina.
         </li>
     </ul>
 </div>
